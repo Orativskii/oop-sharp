@@ -1,0 +1,7 @@
+C:\Users\Soratik\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Soratik\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Soratik\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Soratik\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Soratik\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb

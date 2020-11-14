@@ -1,0 +1,13 @@
+C:\Users\Soratik\source\repos\Complex\Complex\obj\Debug\netcoreapp3.1\Complex.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\Complex\Complex\obj\Debug\netcoreapp3.1\Complex.AssemblyInfoInputs.cache
+C:\Users\Soratik\source\repos\Complex\Complex\obj\Debug\netcoreapp3.1\Complex.AssemblyInfo.cs
+C:\Users\Soratik\source\repos\Complex\Complex\obj\Debug\netcoreapp3.1\Complex.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\Complex\Complex\bin\Debug\netcoreapp3.1\Complex.exe
+C:\Users\Soratik\source\repos\Complex\Complex\bin\Debug\netcoreapp3.1\Complex.deps.json
+C:\Users\Soratik\source\repos\Complex\Complex\bin\Debug\netcoreapp3.1\Complex.runtimeconfig.json
+C:\Users\Soratik\source\repos\Complex\Complex\bin\Debug\netcoreapp3.1\Complex.runtimeconfig.dev.json
+C:\Users\Soratik\source\repos\Complex\Complex\bin\Debug\netcoreapp3.1\Complex.dll
+C:\Users\Soratik\source\repos\Complex\Complex\bin\Debug\netcoreapp3.1\Complex.pdb
+C:\Users\Soratik\source\repos\Complex\Complex\obj\Debug\netcoreapp3.1\Complex.dll
+C:\Users\Soratik\source\repos\Complex\Complex\obj\Debug\netcoreapp3.1\Complex.pdb
+C:\Users\Soratik\source\repos\Complex\Complex\obj\Debug\netcoreapp3.1\Complex.genruntimeconfig.cache
