@@ -1,0 +1,13 @@
+C:\Users\Soratik\source\repos\String\String\obj\Debug\netcoreapp3.1\String.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\String\String\obj\Debug\netcoreapp3.1\String.AssemblyInfoInputs.cache
+C:\Users\Soratik\source\repos\String\String\obj\Debug\netcoreapp3.1\String.AssemblyInfo.cs
+C:\Users\Soratik\source\repos\String\String\obj\Debug\netcoreapp3.1\String.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\String\String\bin\Debug\netcoreapp3.1\String.exe
+C:\Users\Soratik\source\repos\String\String\bin\Debug\netcoreapp3.1\String.deps.json
+C:\Users\Soratik\source\repos\String\String\bin\Debug\netcoreapp3.1\String.runtimeconfig.json
+C:\Users\Soratik\source\repos\String\String\bin\Debug\netcoreapp3.1\String.runtimeconfig.dev.json
+C:\Users\Soratik\source\repos\String\String\bin\Debug\netcoreapp3.1\String.dll
+C:\Users\Soratik\source\repos\String\String\bin\Debug\netcoreapp3.1\String.pdb
+C:\Users\Soratik\source\repos\String\String\obj\Debug\netcoreapp3.1\String.dll
+C:\Users\Soratik\source\repos\String\String\obj\Debug\netcoreapp3.1\String.pdb
+C:\Users\Soratik\source\repos\String\String\obj\Debug\netcoreapp3.1\String.genruntimeconfig.cache
