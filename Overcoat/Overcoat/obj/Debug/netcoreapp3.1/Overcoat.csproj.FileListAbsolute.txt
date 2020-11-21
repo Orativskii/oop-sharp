@@ -1,0 +1,13 @@
+C:\Users\Soratik\source\repos\Overcoat\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\Overcoat\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.AssemblyInfoInputs.cache
+C:\Users\Soratik\source\repos\Overcoat\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.AssemblyInfo.cs
+C:\Users\Soratik\source\repos\Overcoat\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\Overcoat\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.exe
+C:\Users\Soratik\source\repos\Overcoat\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.deps.json
+C:\Users\Soratik\source\repos\Overcoat\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.runtimeconfig.json
+C:\Users\Soratik\source\repos\Overcoat\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.runtimeconfig.dev.json
+C:\Users\Soratik\source\repos\Overcoat\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.dll
+C:\Users\Soratik\source\repos\Overcoat\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.pdb
+C:\Users\Soratik\source\repos\Overcoat\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.dll
+C:\Users\Soratik\source\repos\Overcoat\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.pdb
+C:\Users\Soratik\source\repos\Overcoat\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.genruntimeconfig.cache

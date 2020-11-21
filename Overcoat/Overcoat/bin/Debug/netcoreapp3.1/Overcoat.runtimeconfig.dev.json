@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Soratik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Soratik\\.nuget\\packages"
+    ]
+  }
+}
