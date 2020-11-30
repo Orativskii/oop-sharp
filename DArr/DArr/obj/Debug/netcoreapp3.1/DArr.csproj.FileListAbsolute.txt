@@ -1,0 +1,13 @@
+C:\Users\Soratik\source\repos\DArr\DArr\obj\Debug\netcoreapp3.1\DArr.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\DArr\DArr\obj\Debug\netcoreapp3.1\DArr.AssemblyInfoInputs.cache
+C:\Users\Soratik\source\repos\DArr\DArr\obj\Debug\netcoreapp3.1\DArr.AssemblyInfo.cs
+C:\Users\Soratik\source\repos\DArr\DArr\obj\Debug\netcoreapp3.1\DArr.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\DArr\DArr\bin\Debug\netcoreapp3.1\DArr.exe
+C:\Users\Soratik\source\repos\DArr\DArr\bin\Debug\netcoreapp3.1\DArr.deps.json
+C:\Users\Soratik\source\repos\DArr\DArr\bin\Debug\netcoreapp3.1\DArr.runtimeconfig.json
+C:\Users\Soratik\source\repos\DArr\DArr\bin\Debug\netcoreapp3.1\DArr.runtimeconfig.dev.json
+C:\Users\Soratik\source\repos\DArr\DArr\bin\Debug\netcoreapp3.1\DArr.dll
+C:\Users\Soratik\source\repos\DArr\DArr\bin\Debug\netcoreapp3.1\DArr.pdb
+C:\Users\Soratik\source\repos\DArr\DArr\obj\Debug\netcoreapp3.1\DArr.dll
+C:\Users\Soratik\source\repos\DArr\DArr\obj\Debug\netcoreapp3.1\DArr.pdb
+C:\Users\Soratik\source\repos\DArr\DArr\obj\Debug\netcoreapp3.1\DArr.genruntimeconfig.cache

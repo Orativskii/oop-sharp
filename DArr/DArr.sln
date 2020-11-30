@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DArr", "DArr\DArr.csproj", "{FEFE663A-7D4A-4D2C-825A-637808A6C663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEFE663A-7D4A-4D2C-825A-637808A6C663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFE663A-7D4A-4D2C-825A-637808A6C663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFE663A-7D4A-4D2C-825A-637808A6C663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFE663A-7D4A-4D2C-825A-637808A6C663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {175F4009-7332-4761-88A1-44EE60594484}
+	EndGlobalSection
+EndGlobal
