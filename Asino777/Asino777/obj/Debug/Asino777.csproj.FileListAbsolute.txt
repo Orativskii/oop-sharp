@@ -1,0 +1,10 @@
+C:\Users\Soratik\source\repos\Asino777\Asino777\bin\Debug\Asino777.exe.config
+C:\Users\Soratik\source\repos\Asino777\Asino777\bin\Debug\Asino777.exe
+C:\Users\Soratik\source\repos\Asino777\Asino777\bin\Debug\Asino777.pdb
+C:\Users\Soratik\source\repos\Asino777\Asino777\obj\Debug\Asino777.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\Asino777\Asino777\obj\Debug\Asino777.Form1.resources
+C:\Users\Soratik\source\repos\Asino777\Asino777\obj\Debug\Asino777.Properties.Resources.resources
+C:\Users\Soratik\source\repos\Asino777\Asino777\obj\Debug\Asino777.csproj.GenerateResource.cache
+C:\Users\Soratik\source\repos\Asino777\Asino777\obj\Debug\Asino777.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\Asino777\Asino777\obj\Debug\Asino777.exe
+C:\Users\Soratik\source\repos\Asino777\Asino777\obj\Debug\Asino777.pdb
