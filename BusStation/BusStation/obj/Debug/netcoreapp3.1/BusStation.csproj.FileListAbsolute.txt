@@ -1,0 +1,13 @@
+C:\Users\Soratik\source\repos\BusStation\BusStation\obj\Debug\netcoreapp3.1\BusStation.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\BusStation\BusStation\obj\Debug\netcoreapp3.1\BusStation.AssemblyInfoInputs.cache
+C:\Users\Soratik\source\repos\BusStation\BusStation\obj\Debug\netcoreapp3.1\BusStation.AssemblyInfo.cs
+C:\Users\Soratik\source\repos\BusStation\BusStation\obj\Debug\netcoreapp3.1\BusStation.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\BusStation\BusStation\bin\Debug\netcoreapp3.1\BusStation.exe
+C:\Users\Soratik\source\repos\BusStation\BusStation\bin\Debug\netcoreapp3.1\BusStation.deps.json
+C:\Users\Soratik\source\repos\BusStation\BusStation\bin\Debug\netcoreapp3.1\BusStation.runtimeconfig.json
+C:\Users\Soratik\source\repos\BusStation\BusStation\bin\Debug\netcoreapp3.1\BusStation.runtimeconfig.dev.json
+C:\Users\Soratik\source\repos\BusStation\BusStation\bin\Debug\netcoreapp3.1\BusStation.dll
+C:\Users\Soratik\source\repos\BusStation\BusStation\bin\Debug\netcoreapp3.1\BusStation.pdb
+C:\Users\Soratik\source\repos\BusStation\BusStation\obj\Debug\netcoreapp3.1\BusStation.dll
+C:\Users\Soratik\source\repos\BusStation\BusStation\obj\Debug\netcoreapp3.1\BusStation.pdb
+C:\Users\Soratik\source\repos\BusStation\BusStation\obj\Debug\netcoreapp3.1\BusStation.genruntimeconfig.cache
