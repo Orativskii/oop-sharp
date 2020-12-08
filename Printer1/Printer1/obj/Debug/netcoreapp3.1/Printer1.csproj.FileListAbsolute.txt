@@ -1,0 +1,13 @@
+C:\Users\Soratik\source\repos\Printer1\Printer1\bin\Debug\netcoreapp3.1\Printer1.exe
+C:\Users\Soratik\source\repos\Printer1\Printer1\bin\Debug\netcoreapp3.1\Printer1.deps.json
+C:\Users\Soratik\source\repos\Printer1\Printer1\bin\Debug\netcoreapp3.1\Printer1.runtimeconfig.json
+C:\Users\Soratik\source\repos\Printer1\Printer1\bin\Debug\netcoreapp3.1\Printer1.runtimeconfig.dev.json
+C:\Users\Soratik\source\repos\Printer1\Printer1\bin\Debug\netcoreapp3.1\Printer1.dll
+C:\Users\Soratik\source\repos\Printer1\Printer1\bin\Debug\netcoreapp3.1\Printer1.pdb
+C:\Users\Soratik\source\repos\Printer1\Printer1\obj\Debug\netcoreapp3.1\Printer1.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\Printer1\Printer1\obj\Debug\netcoreapp3.1\Printer1.AssemblyInfoInputs.cache
+C:\Users\Soratik\source\repos\Printer1\Printer1\obj\Debug\netcoreapp3.1\Printer1.AssemblyInfo.cs
+C:\Users\Soratik\source\repos\Printer1\Printer1\obj\Debug\netcoreapp3.1\Printer1.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\Printer1\Printer1\obj\Debug\netcoreapp3.1\Printer1.dll
+C:\Users\Soratik\source\repos\Printer1\Printer1\obj\Debug\netcoreapp3.1\Printer1.pdb
+C:\Users\Soratik\source\repos\Printer1\Printer1\obj\Debug\netcoreapp3.1\Printer1.genruntimeconfig.cache
