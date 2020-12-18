@@ -10,6 +10,8 @@ namespace Complex
     {
         static void Main(string[] args)
         {
+            //Оратівський Сергій. ПЗС-2044. 2020р.
+            Console.WriteLine("Оратiвський Сергiй. ПЗС-2044");
             Counter ct = new Counter();
             var zminna = ct.Input();
             Counter c1 = new Counter { A = zminna[0], Bi = zminna[1]};

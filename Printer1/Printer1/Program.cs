@@ -8,6 +8,8 @@ namespace Printer1
     {
         static void Main(string[] args)
         {
+            //Оратівський Сергій. ПЗС-2044. 2020р.
+            Console.WriteLine("Оратiвський Сергiй. ПЗС-2044");
             Queue printer = new Queue();
             printer.Menu();
         }

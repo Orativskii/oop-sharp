@@ -6,6 +6,8 @@ namespace Overcoat
     {
         static void Main(string[] args)
         {
+            //Оратівський Сергій. ПЗС-2044. 2020р.
+            Console.WriteLine("Оратiвський Сергiй. ПЗС-2044");
             String str;
             Console.WriteLine("Введите первую строку");
             str = Convert.ToString(Console.ReadLine());

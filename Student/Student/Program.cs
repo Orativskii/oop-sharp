@@ -11,6 +11,8 @@ namespace Student
     {
         static void Main(string[] args)
         {
+            //Оратівський Сергій. ПЗС-2044. 2020р.
+            Console.WriteLine("Оратiвський Сергiй. ПЗС-2044");
             Student st = new Student();
             st.InputInfo();
             st.Query();

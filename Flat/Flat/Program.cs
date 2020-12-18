@@ -6,6 +6,8 @@ namespace Flat
     {
         static void Main(string[] args)
         {
+            //Оратівський Сергій. ПЗС-2044. 2020р.
+            Console.WriteLine("Оратiвський Сергiй. ПЗС-2044");
             Flat flat = new Flat();
             var inp = flat.Input();
             Flat o1 = new Flat { Cost = inp[0], Area = inp[1] };

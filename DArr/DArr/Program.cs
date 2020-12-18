@@ -5,7 +5,8 @@ class Program
 {
     public static void Main()
     {
-
+        //Оратівський Сергій. ПЗС-2044. 2020р.
+        Console.WriteLine("Оратiвський Сергiй. ПЗС-2044");
         string[] myArr = { };
         DArr dArr = new DArr();
         dArr.Menu(myArr);

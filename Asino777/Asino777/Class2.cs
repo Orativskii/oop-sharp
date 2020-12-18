@@ -14,7 +14,7 @@ namespace Asino777
         {
             if (poz1 <= number1)
             {
-                pic1 = rnd.Next(1, 9);
+                pic1 = rnd.Next(0, 9);
                 pictureBox1.Image = imageList1.Images[pic1];
                 poz1++;
                 return pic1;

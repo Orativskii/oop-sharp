@@ -21,15 +21,42 @@ namespace Asino777
         int number1 = 0, number2 = 0, number3 = 0;
         int poz1 = 0, poz2 = 0, poz3 = 0;
         int win = 0;
+        int result = 0;
         int[] test = { };
         Random rnd = new Random();
         Class execute = new Class();
 
-       
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            MessageBox.Show(
+        "Розробник: студент ПЗС-2044, Оратівський Сергій",
+        "Автор",
+        MessageBoxButtons.OK,
+        MessageBoxIcon.Information,
+        MessageBoxDefaultButton.Button1,
+        MessageBoxOptions.DefaultDesktopOnly);
+        }
+
+        private void timer4_Tick(object sender, EventArgs e)
+        {
+
+            if (timer1.Enabled == false && timer2.Enabled == false && timer3.Enabled == false && pic1 == pic2 && pic2 == pic3)
+            {
+                pictureBox5.Visible = true;
+
+                if (pic1 % 2 == 0)
+                {
+                    win += 1000;
+                }
+                else win += 5000;
+
+                label1.Text = ("Ваш виграш: " + win +"$");
+                timer4.Enabled = false;
+            }
+        }
 
         private void button1_Click(object sender, EventArgs e)
         {
-
             number1 = rnd.Next(1, 10);
             number2 = rnd.Next(1, 10);
             number3 = rnd.Next(1, 10);
@@ -40,13 +67,13 @@ namespace Asino777
             poz1 = 0;
             poz2 = 0;
             poz3 = 0;
+            result++;
+            label2.Text = ("Спроб: " + result);
             pictureBox5.Visible = false;
-
         }
 
         private void pictureBox5_Click(object sender, EventArgs e)
-        {
-
+        { 
         }
 
         private void pictureBox4_Click(object sender, EventArgs e)
@@ -64,10 +91,6 @@ namespace Asino777
             else
             {
                 timer2.Enabled = false;
-                if (pic1 == pic2 && pic2 == pic3)
-                {
-                    pictureBox5.Visible = true;
-                }
             }
         }
 
@@ -81,13 +104,8 @@ namespace Asino777
             else
             {
                 timer3.Enabled = false;
-                if (pic1 == pic2 && pic2 == pic3)
-                {
-                    pictureBox5.Visible = true;
-                 
-                }
             }
-            }
+        }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
@@ -99,12 +117,7 @@ namespace Asino777
             else
             {
                 timer1.Enabled = false;
-                if (pic1 == pic2 && pic2 == pic3)
-                {
-                    pictureBox5.Visible = true;
-                }
             }
-            
 
         }
     }

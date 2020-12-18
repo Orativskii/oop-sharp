@@ -13,7 +13,8 @@ namespace Sort
     {
          static void Main(string[] args)
         {
-
+            //Оратівський Сергій. ПЗС-2044. 2020р.
+            Console.WriteLine("Оратiвський Сергiй. ПЗС-2044");
 
 
             int[] masBubble = new int[5] { 5, 1, 6, 12, 4 };

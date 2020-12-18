@@ -11,6 +11,8 @@ namespace PhoneBook
     {
         static void Main(string[] args)
         {
+            //Оратівський Сергій. ПЗС-2044. 2020р.
+            Console.WriteLine("Оратiвський Сергiй. ПЗС-2044");
             PhoneBook pb = new PhoneBook();
             pb.InputInfo();
             pb.Query();

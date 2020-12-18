@@ -1,0 +1,13 @@
+C:\Users\Soratik\source\repos\DribNew\DribNew\bin\Debug\netcoreapp3.1\DribNew.exe
+C:\Users\Soratik\source\repos\DribNew\DribNew\bin\Debug\netcoreapp3.1\DribNew.deps.json
+C:\Users\Soratik\source\repos\DribNew\DribNew\bin\Debug\netcoreapp3.1\DribNew.runtimeconfig.json
+C:\Users\Soratik\source\repos\DribNew\DribNew\bin\Debug\netcoreapp3.1\DribNew.runtimeconfig.dev.json
+C:\Users\Soratik\source\repos\DribNew\DribNew\bin\Debug\netcoreapp3.1\DribNew.dll
+C:\Users\Soratik\source\repos\DribNew\DribNew\bin\Debug\netcoreapp3.1\DribNew.pdb
+C:\Users\Soratik\source\repos\DribNew\DribNew\obj\Debug\netcoreapp3.1\DribNew.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\DribNew\DribNew\obj\Debug\netcoreapp3.1\DribNew.AssemblyInfoInputs.cache
+C:\Users\Soratik\source\repos\DribNew\DribNew\obj\Debug\netcoreapp3.1\DribNew.AssemblyInfo.cs
+C:\Users\Soratik\source\repos\DribNew\DribNew\obj\Debug\netcoreapp3.1\DribNew.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\DribNew\DribNew\obj\Debug\netcoreapp3.1\DribNew.dll
+C:\Users\Soratik\source\repos\DribNew\DribNew\obj\Debug\netcoreapp3.1\DribNew.pdb
+C:\Users\Soratik\source\repos\DribNew\DribNew\obj\Debug\netcoreapp3.1\DribNew.genruntimeconfig.cache

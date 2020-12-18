@@ -1,0 +1,13 @@
+C:\Users\Soratik\source\repos\Flat\Flat\bin\Debug\netcoreapp3.1\Flat.exe
+C:\Users\Soratik\source\repos\Flat\Flat\bin\Debug\netcoreapp3.1\Flat.deps.json
+C:\Users\Soratik\source\repos\Flat\Flat\bin\Debug\netcoreapp3.1\Flat.runtimeconfig.json
+C:\Users\Soratik\source\repos\Flat\Flat\bin\Debug\netcoreapp3.1\Flat.runtimeconfig.dev.json
+C:\Users\Soratik\source\repos\Flat\Flat\bin\Debug\netcoreapp3.1\Flat.dll
+C:\Users\Soratik\source\repos\Flat\Flat\bin\Debug\netcoreapp3.1\Flat.pdb
+C:\Users\Soratik\source\repos\Flat\Flat\obj\Debug\netcoreapp3.1\Flat.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\Flat\Flat\obj\Debug\netcoreapp3.1\Flat.AssemblyInfoInputs.cache
+C:\Users\Soratik\source\repos\Flat\Flat\obj\Debug\netcoreapp3.1\Flat.AssemblyInfo.cs
+C:\Users\Soratik\source\repos\Flat\Flat\obj\Debug\netcoreapp3.1\Flat.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\Flat\Flat\obj\Debug\netcoreapp3.1\Flat.dll
+C:\Users\Soratik\source\repos\Flat\Flat\obj\Debug\netcoreapp3.1\Flat.pdb
+C:\Users\Soratik\source\repos\Flat\Flat\obj\Debug\netcoreapp3.1\Flat.genruntimeconfig.cache
